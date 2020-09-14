@@ -25,6 +25,6 @@ First differing element 0:
 +  (213.95544569810457, -2.673258113725865, 23.057550624127998)] : Mauvais calcul de radians -> degres
 
 ----------------------------------------------------------------------
-Ran 7 tests in 0.003s
+Ran 7 tests in 0.002s
 
 FAILED (failures=1)
