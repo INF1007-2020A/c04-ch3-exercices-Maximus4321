@@ -15,7 +15,7 @@ Traceback (most recent call last):
   File "test_exercice.py", line 80, in <listcomp>
     output = [exercice.to_degrees(v) for v in values]
   File "/home/runner/work/c04-ch3-exercices-Maximus4321/c04-ch3-exercices-Maximus4321/exercice.py", line 30, in to_degrees
-    degrees, minutes, secondes = int(Degré_complet), int((Degré_complet%1)*60), (minutes%1)*60
+    degrees, minutes, secondes = int(Degré_complet), int((Degré_complet % 1)*60), (minutes % 1)*60
 UnboundLocalError: local variable 'minutes' referenced before assignment
 
 ----------------------------------------------------------------------
